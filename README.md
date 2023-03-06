@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Turgay
-- 👀 I’m interested in Software QA and iOS development
-- 🌱 I’m currently learning software testing and swift
+- 👀 I’m interested in Software QA and back end development
+- 🌱 I’m currently learning software testing and Java
 
 
 

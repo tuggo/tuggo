@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Turgay
-- 👀 I’m interested in Software QA and Swift development
+- 👀 I have been working as a QA Engineer, interested in Software QA and Swift development
 - 🌱 I’m currently learning Swift and XCTest framework 
 
 
